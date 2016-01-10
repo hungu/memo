@@ -1,0 +1,157 @@
+2016-01-10 12:59:38: == Rename Conflict Losing File is On, expect some weirdness in auto-resolving Vertical Conflicts
+2016-01-10 12:59:38: -- Analysis Started by On File Change Incremental
+2016-01-10 12:59:39: /calendar.sql: 冲突: 新文件有变化
+2016-01-10 12:59:39: /connect.php: 冲突: 新文件有变化
+2016-01-10 12:59:39: /css/fancybox.css: 冲突: 新文件有变化
+2016-01-10 12:59:39: /css/fullcalendar.css: 冲突: 新文件有变化
+2016-01-10 12:59:39: /css/hb.css: 冲突: 新文件有变化
+2016-01-10 12:59:39: /css/images/animated-overlay.gif: 冲突: 新文件有变化
+2016-01-10 12:59:39: /css/images/blank.gif: 冲突: 新文件有变化
+2016-01-10 12:59:39: /css/images/fancy_close.png: 冲突: 新文件有变化
+2016-01-10 12:59:39: /css/images/fancy_loading.png: 冲突: 新文件有变化
+2016-01-10 12:59:39: /css/images/fancy_nav_left.png: 冲突: 新文件有变化
+2016-01-10 12:59:39: /css/images/fancy_nav_right.png: 冲突: 新文件有变化
+2016-01-10 12:59:39: /css/images/fancy_shadow_e.png: 冲突: 新文件有变化
+2016-01-10 12:59:39: /css/images/fancy_shadow_n.png: 冲突: 新文件有变化
+2016-01-10 12:59:39: /css/images/fancy_shadow_ne.png: 冲突: 新文件有变化
+2016-01-10 12:59:39: /css/images/fancy_shadow_nw.png: 冲突: 新文件有变化
+2016-01-10 12:59:39: /css/images/fancy_shadow_s.png: 冲突: 新文件有变化
+2016-01-10 12:59:39: /css/images/fancy_shadow_se.png: 冲突: 新文件有变化
+2016-01-10 12:59:39: /css/images/fancy_shadow_sw.png: 冲突: 新文件有变化
+2016-01-10 12:59:39: /css/images/fancy_shadow_w.png: 冲突: 新文件有变化
+2016-01-10 12:59:39: /css/images/fancy_title_left.png: 冲突: 新文件有变化
+2016-01-10 12:59:39: /css/images/fancy_title_main.png: 冲突: 新文件有变化
+2016-01-10 12:59:39: /css/images/fancy_title_over.png: 冲突: 新文件有变化
+2016-01-10 12:59:39: /css/images/fancy_title_right.png: 冲突: 新文件有变化
+2016-01-10 12:59:39: /css/images/fancybox-x.png: 冲突: 新文件有变化
+2016-01-10 12:59:39: /css/images/fancybox-y.png: 冲突: 新文件有变化
+2016-01-10 12:59:39: /css/images/fancybox.png: 冲突: 新文件有变化
+2016-01-10 12:59:39: /css/jquery-ui.css: 冲突: 新文件有变化
+2016-01-10 12:59:39: /css/main.css: 冲突: 新文件有变化
+2016-01-10 12:59:39: /do.php: 冲突: 新文件有变化
+2016-01-10 12:59:39: /event.php: 冲突: 新文件有变化
+2016-01-10 12:59:39: /img/d1.png: 冲突: 新文件有变化
+2016-01-10 12:59:39: /img/rjt.png: 冲突: 新文件有变化
+2016-01-10 12:59:39: /img/scan_sc.jpg: 冲突: 新文件有变化
+2016-01-10 12:59:39: /img/tip1.png: 冲突: 新文件有变化
+2016-01-10 12:59:39: /index.php: 冲突: 新文件有变化
+2016-01-10 12:59:39: /js/fullcalendar.min.js: 冲突: 新文件有变化
+2016-01-10 12:59:39: /js/jquery-1.9.js: 冲突: 新文件有变化
+2016-01-10 12:59:39: /js/jquery-ui.js: 冲突: 新文件有变化
+2016-01-10 12:59:39: /js/jquery.fancybox-1.3.1.pack.js: 冲突: 新文件有变化
+2016-01-10 12:59:39: /js/jquery.form.min.js: 冲突: 新文件有变化
+2016-01-10 12:59:39: /json.php: 冲突: 新文件有变化
+2016-01-10 12:59:39: /login.html: 冲突: 新文件有变化
+2016-01-10 12:59:39: /login_yz.php: 冲突: 新文件有变化
+2016-01-10 12:59:39: /memo.php: 冲突: 新文件有变化
+2016-01-10 12:59:39: /update_day_memo.php: 冲突: 新文件有变化
+2016-01-10 12:59:39: /wall.php: 冲突: 新文件有变化
+2016-01-10 12:59:39: /wechat/4297f44b13955235245b2497399d7a93.xml: 冲突: 新文件有变化
+2016-01-10 12:59:39: /wechat/access_token.php: 冲突: 新文件有变化
+2016-01-10 12:59:39: /wechat/AirQualityChina.php: 冲突: 新文件有变化
+2016-01-10 12:59:39: /wechat/AirQualityChina.txt: 冲突: 新文件有变化
+2016-01-10 12:59:39: /wechat/API.php: 冲突: 新文件有变化
+2016-01-10 12:59:39: /wechat/auto_AirQualityChina.php: 冲突: 新文件有变化
+2016-01-10 12:59:39: /wechat/auto_mass.php: 冲突: 新文件有变化
+2016-01-10 12:59:39: /wechat/auto_send.php: 冲突: 新文件有变化
+2016-01-10 12:59:39: /wechat/auto_send_memo.php: 冲突: 新文件有变化
+2016-01-10 12:59:39: /wechat/conn.php: 冲突: 新文件有变化
+2016-01-10 12:59:39: /wechat/http_request.php: 冲突: 新文件有变化
+2016-01-10 12:59:39: /wechat/index.php: 冲突: 新文件有变化
+2016-01-10 12:59:39: /wechat/mass_inform.php: 冲突: 新文件有变化
+2016-01-10 12:59:39: /wechat/memo.php: 冲突: 新文件有变化
+2016-01-10 12:59:39: /wechat/memo_day.php: 冲突: 新文件有变化
+2016-01-10 12:59:39: /wechat/Menu.php: 冲突: 新文件有变化
+2016-01-10 12:59:39: /wechat/msg_push.php: 冲突: 新文件有变化
+2016-01-10 12:59:39: /wechat/phone.php: 冲突: 新文件有变化
+2016-01-10 12:59:39: /wechat/send_msg.php: 冲突: 新文件有变化
+2016-01-10 12:59:39: /wechat/template.php: 冲突: 新文件有变化
+2016-01-10 12:59:39: /wechat/template_old.php: 冲突: 新文件有变化
+2016-01-10 12:59:39: /wechat/test.php: 冲突: 新文件有变化
+2016-01-10 12:59:39: /wechat/tutu_huikuan.php: 冲突: 新文件有变化
+2016-01-10 12:59:39: /wechat/tutu_quyan.php: 冲突: 新文件有变化
+2016-01-10 12:59:39: /wechat/wechat_deal.php: 冲突: 新文件有变化
+2016-01-10 12:59:39: /wechat/空气质量API接口.php: 冲突: 新文件有变化
+2016-01-10 12:59:39: 变更：74， 冲突：， 复制时间：， 复制状态：6/， 错误： , All: 83
+2016-01-10 12:59:39: Left to Right: Copy File: 74 
+2016-01-10 12:59:39: Right to Left: Copy State: 6 
+2016-01-10 12:59:39: == Sync Started by On File Change Incremental
+2016-01-10 12:59:39: 90% (74 / 82) 个文件已更改，超过 50% 的限制。因此该任务将不再执行自动同步。
+2016-01-10 12:59:39: 
+2016-01-10 13:00:25: == Sync Started by User
+2016-01-10 13:00:26: 新建复制 'E:/zahi/data/web/html/hungu_memo/memo/.gitattributes' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/.gitattributes'
+2016-01-10 13:00:26: 新建复制 'E:/zahi/data/web/html/hungu_memo/memo/.gitignore' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/.gitignore'
+2016-01-10 13:00:26: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/calendar.sql' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/calendar.sql'
+2016-01-10 13:00:26: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/connect.php' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/connect.php'
+2016-01-10 13:00:26: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/css/fancybox.css' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/css/fancybox.css'
+2016-01-10 13:00:26: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/css/fullcalendar.css' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/css/fullcalendar.css'
+2016-01-10 13:00:26: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/css/hb.css' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/css/hb.css'
+2016-01-10 13:00:26: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/css/images/animated-overlay.gif' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/css/images/animated-overlay.gif'
+2016-01-10 13:00:26: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/css/images/blank.gif' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/css/images/blank.gif'
+2016-01-10 13:00:26: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/css/images/fancy_close.png' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/css/images/fancy_close.png'
+2016-01-10 13:00:26: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/css/images/fancy_loading.png' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/css/images/fancy_loading.png'
+2016-01-10 13:00:26: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/css/images/fancy_nav_left.png' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/css/images/fancy_nav_left.png'
+2016-01-10 13:00:26: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/css/images/fancy_nav_right.png' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/css/images/fancy_nav_right.png'
+2016-01-10 13:00:26: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/css/images/fancy_shadow_e.png' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/css/images/fancy_shadow_e.png'
+2016-01-10 13:00:26: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/css/images/fancy_shadow_n.png' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/css/images/fancy_shadow_n.png'
+2016-01-10 13:00:26: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/css/images/fancy_shadow_ne.png' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/css/images/fancy_shadow_ne.png'
+2016-01-10 13:00:26: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/css/images/fancy_shadow_nw.png' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/css/images/fancy_shadow_nw.png'
+2016-01-10 13:00:26: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/css/images/fancy_shadow_s.png' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/css/images/fancy_shadow_s.png'
+2016-01-10 13:00:26: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/css/images/fancy_shadow_se.png' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/css/images/fancy_shadow_se.png'
+2016-01-10 13:00:27: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/css/images/fancy_shadow_sw.png' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/css/images/fancy_shadow_sw.png'
+2016-01-10 13:00:27: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/css/images/fancy_shadow_w.png' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/css/images/fancy_shadow_w.png'
+2016-01-10 13:00:27: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/css/images/fancy_title_left.png' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/css/images/fancy_title_left.png'
+2016-01-10 13:00:27: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/css/images/fancy_title_main.png' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/css/images/fancy_title_main.png'
+2016-01-10 13:00:27: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/css/images/fancy_title_over.png' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/css/images/fancy_title_over.png'
+2016-01-10 13:00:27: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/css/images/fancy_title_right.png' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/css/images/fancy_title_right.png'
+2016-01-10 13:00:27: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/css/images/fancybox-x.png' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/css/images/fancybox-x.png'
+2016-01-10 13:00:27: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/css/images/fancybox-y.png' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/css/images/fancybox-y.png'
+2016-01-10 13:00:27: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/css/images/fancybox.png' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/css/images/fancybox.png'
+2016-01-10 13:00:27: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/css/jquery-ui.css' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/css/jquery-ui.css'
+2016-01-10 13:00:27: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/css/main.css' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/css/main.css'
+2016-01-10 13:00:27: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/do.php' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/do.php'
+2016-01-10 13:00:27: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/event.php' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/event.php'
+2016-01-10 13:00:27: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/img/d1.png' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/img/d1.png'
+2016-01-10 13:00:27: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/img/rjt.png' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/img/rjt.png'
+2016-01-10 13:00:27: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/img/scan_sc.jpg' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/img/scan_sc.jpg'
+2016-01-10 13:00:28: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/img/tip1.png' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/img/tip1.png'
+2016-01-10 13:00:28: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/index.php' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/index.php'
+2016-01-10 13:00:28: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/js/fullcalendar.min.js' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/js/fullcalendar.min.js'
+2016-01-10 13:00:28: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/js/jquery-1.9.js' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/js/jquery-1.9.js'
+2016-01-10 13:00:28: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/js/jquery-ui.js' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/js/jquery-ui.js'
+2016-01-10 13:00:28: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/js/jquery.fancybox-1.3.1.pack.js' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/js/jquery.fancybox-1.3.1.pack.js'
+2016-01-10 13:00:28: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/js/jquery.form.min.js' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/js/jquery.form.min.js'
+2016-01-10 13:00:28: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/json.php' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/json.php'
+2016-01-10 13:00:28: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/login.html' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/login.html'
+2016-01-10 13:00:28: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/login_yz.php' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/login_yz.php'
+2016-01-10 13:00:28: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/memo.php' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/memo.php'
+2016-01-10 13:00:28: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/update_day_memo.php' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/update_day_memo.php'
+2016-01-10 13:00:28: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/wall.php' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/wall.php'
+2016-01-10 13:00:29: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/wechat/4297f44b13955235245b2497399d7a93.xml' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/wechat/4297f44b13955235245b2497399d7a93.xml'
+2016-01-10 13:00:29: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/wechat/access_token.php' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/wechat/access_token.php'
+2016-01-10 13:00:29: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/wechat/AirQualityChina.php' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/wechat/AirQualityChina.php'
+2016-01-10 13:00:29: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/wechat/AirQualityChina.txt' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/wechat/AirQualityChina.txt'
+2016-01-10 13:00:29: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/wechat/API.php' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/wechat/API.php'
+2016-01-10 13:00:29: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/wechat/auto_AirQualityChina.php' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/wechat/auto_AirQualityChina.php'
+2016-01-10 13:00:29: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/wechat/auto_mass.php' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/wechat/auto_mass.php'
+2016-01-10 13:00:29: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/wechat/auto_send.php' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/wechat/auto_send.php'
+2016-01-10 13:00:29: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/wechat/auto_send_memo.php' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/wechat/auto_send_memo.php'
+2016-01-10 13:00:29: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/wechat/conn.php' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/wechat/conn.php'
+2016-01-10 13:00:29: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/wechat/http_request.php' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/wechat/http_request.php'
+2016-01-10 13:00:29: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/wechat/index.php' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/wechat/index.php'
+2016-01-10 13:00:29: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/wechat/mass_inform.php' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/wechat/mass_inform.php'
+2016-01-10 13:00:29: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/wechat/memo.php' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/wechat/memo.php'
+2016-01-10 13:00:29: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/wechat/memo_day.php' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/wechat/memo_day.php'
+2016-01-10 13:00:29: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/wechat/Menu.php' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/wechat/Menu.php'
+2016-01-10 13:00:29: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/wechat/msg_push.php' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/wechat/msg_push.php'
+2016-01-10 13:00:29: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/wechat/phone.php' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/wechat/phone.php'
+2016-01-10 13:00:29: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/wechat/send_msg.php' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/wechat/send_msg.php'
+2016-01-10 13:00:30: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/wechat/template.php' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/wechat/template.php'
+2016-01-10 13:00:30: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/wechat/template_old.php' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/wechat/template_old.php'
+2016-01-10 13:00:30: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/wechat/test.php' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/wechat/test.php'
+2016-01-10 13:00:30: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/wechat/tutu_huikuan.php' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/wechat/tutu_huikuan.php'
+2016-01-10 13:00:30: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/wechat/tutu_quyan.php' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/wechat/tutu_quyan.php'
+2016-01-10 13:00:30: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/wechat/wechat_deal.php' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/wechat/wechat_deal.php'
+2016-01-10 13:00:30: 覆盖复制 'E:/zahi/data/web/html/hungu_memo/memo/wechat/空气质量API接口.php' -> 'sftp://118.192.148.249:719/data/web/html/hungu_memo/memo/wechat/空气质量API接口.php'
+2016-01-10 13:00:30: ===== ：同步完毕。时间：00:00:09，速度： 111 KB/s =====, 项目同步未必： 80，错误： 
+2016-01-10 13:00:30: 
